@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&color=20C20E&background=FFFFFF00&center=true&vCenter=true&width=600&height=80&lines=SHARP+TOOLS+MAKE+GOOD+WORK)  
 
 ## **:wave: - 欢迎来到我的主页** 
 
@@ -7,7 +8,7 @@
 
 - :zany_face: 努力成为一名优秀的全站工程师, 设计仿真程序等相关作品  
 - :thinking: 热爱开源, 希望有更多的时间和机会贡献源代码, 希望能将航海技术的知识和计算机技术融合, 自成体系  
-- :speech_balloon: 主要联系方式 [**wangyulong.eron@outlook.com**](wangyulong.eron@outlook.com)   
+- :speech_balloon: 主要联系方式 [**wangyulong.eron@outlook.com**](mailto:wangyulong.eron@outlook.com)  
 
 ## **近期主要项目** 
 
