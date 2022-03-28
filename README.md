@@ -15,7 +15,7 @@
 - [ArbitraryCoding](https://github.com/NAVERON/ArbitraryCoding)  
 - [ShipSimulation](https://github.com/NAVERON/ShipSimulation)  
 - [PracticeSpringboot](https://github.com/NAVERON/PracticeSpringboot)  
-- [PracticeJavaFx<PracticeSpringboot Sibling Project>](https://github.com/NAVERON/PracticeJavaFx)  
+- [PracticeJavaFx\<PracticeSpringboot Sibling Project\>](https://github.com/NAVERON/PracticeJavaFx)  
 - [SpecializedExercises](https://github.com/NAVERON/SpecializedExercises)  
 - ......
 
