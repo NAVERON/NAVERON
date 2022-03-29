@@ -1,18 +1,54 @@
-# 王玉龙 **:wave:** 
+# 王玉龙 - 软件工程师 **:wave:** 
 
 > :man:  1993 - ?  
-> 最高学历 : 武汉理工大学 航运学院 硕士  
+> 最高学历 : 武汉理工大学 航运学院 交通信息工程及控制 硕士  
 > 联系邮箱 : **wangyulong.eron@outlook.com**  
 > 职业规划 : 软件工程师/全栈工程师/设计师  
+
+- [领英LinkedIn](https://www.linkedin.com/in/naveron/)  
+- [开源Github](https://github.com/NAVERON)  
+- [博客园CNBlogs](https://www.cnblogs.com/eronnav/)  +  [Jekyll博客](https://naveron.github.io/)  
+
+```mermaid
+gantt
+    dateFormat    YYYY-MM-DD
+    axisFormat    %Y-%m-%d
+    title    求学和职业生涯历程
+    %% 里程碑 name : type, 
+    Initial milestone : milestone, initial, 2012-09-01, 1min
+    Final milestone : milestone, final, 2022-04-01, 1min
+
+    section 航海技术 本科
+    %% task显示名称 :当前状态 任务名称/taskId 开始时间/任务位置 结束时间/任务位置 
+    航海技术主要课程学习 :done, major, 2012-09-01, 2016-06-20 
+    计算机基础课和C语言基础 :done, basic, 2013-02-15, 2013-12-30 
+    辅修华科计算机双学位 :crit, minor, 2014-03-01, 2015-10-10 
+    第一个完整逻辑的C代码 :milestone, firstCmd, 2014-12-30, 1min 
+    第一个独立完成的UI项目 :milestone, firstProject, 2015-04-10, 1min 
+    船舶避碰仿真毕业设计 :active, codeBegin, 2015-07-01, 2015-10-10 
+    船舶避碰系列项目1-2版本 :active, 2015-11-01, 2016-08-30 
+    
+    section 交通信息工程及控制 研究生
+    研究生阶段学习 :done, searchBegin, 2016-05-20, 2019-07-10 
+    宣传部学习 :done, psLearning, 2016-10-15, 2017-07-01 
+    船舶避碰仿真3-4版本 :active, simulationUpdate, 2017-03-01, 2018-12-01 
+    创业公司学习锻炼 :crit, exercitation, 2017-09-01, 2017-12-30 
+    毕业小论文和大论文 :done, granduated, 2017-03-01, 2019-03-01 
+
+    section 小米工作
+    小米南京应用商店 :crit, firstWork, 2019-07-22, 2022-01-27 
+
+    section 近期
+    过年访亲 :done, home, 2022-01-29, 2022-02-10 
+    旧开源项目整理 :done, openSource, 2022-02-10, 2022-03-06 
+    项目复习和整理 :active, forJob, 2022-03-07, 2022-04-03 
+```
+
 > 2014年初课程C语言基础和辅修双学位, 开始接触基础编程知识;  
 > 2015年初完成第一个完整项目, 电话联系人管理(Java AWT, Swing), 学习C语言写的简单火车票购买程序(Command Line);  
 > 2017年接触编程实习入门, 进入7人小公司打杂和学习;  
 > 2019年硕士毕业进入小米(南京应用)工作, 2022年02月离职  
 > 2022年过年期间访亲, 02月整理近两年学习所得并整理所有项目, 03月梳理知识点和备战找工作...  
-
-- [领英LinkedIn](https://www.linkedin.com/in/naveron/)  
-- [开源Github](https://github.com/NAVERON)  
-- [博客园CNBlogs](https://www.cnblogs.com/eronnav/)  +  [Jekyll博客](https://naveron.github.io/)  
 
 # 职业经历 **:man_health_worker:** 
 
