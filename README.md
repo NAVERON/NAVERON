@@ -36,6 +36,12 @@
 - [Bilibili](https://space.bilibili.com/89060131)  
 - [Yuque](https://naveron.yuque.com/dashboard)  
 
+## **近期找工作** 
+
+个人简历 : [应聘软件工程师](./ResumeForSoftwareEngineer.md)  
+
+> 愿意脚踏实地从头开始, 以技术底蕴和项目经验作为基础, 由简单的实现业务到独自创造'轮子', 实事求是, 一定可以的  
+
 ------
 
 <details close>
