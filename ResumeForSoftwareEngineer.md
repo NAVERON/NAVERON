@@ -6,7 +6,7 @@
 > 职业规划 : 软件工程师/全栈工程师/设计师  
 
 - [领英LinkedIn](https://www.linkedin.com/in/naveron/)  
-- [开源Github](https://github.com/NAVERON)  
+- [开源Github](https://github.com/NAVERON) + [GITEE](https://gitee.com/naveron) + [GITLAB](https://gitlab.com/NAVERON)  
 - [博客园CNBlogs](https://www.cnblogs.com/eronnav/)  +  [Jekyll博客](https://naveron.github.io/)  
 
 ```mermaid
@@ -41,7 +41,7 @@ gantt
     section 近期
     过年访亲 :done, home, 2022-01-29, 2022-02-10 
     旧开源项目整理 :done, openSource, 2022-02-10, 2022-03-06 
-    项目复习和整理 :active, forJob, 2022-03-07, 2022-04-03 
+    项目复习和整理 :active, forJob, 2022-03-07, 2022-05-03 
 ```
 
 > 2014年初课程C语言基础和辅修双学位, 开始接触基础编程知识;  
@@ -91,7 +91,7 @@ gantt
 
 - 从毕业设计的船舶避碰开始, 解决存在线程刷新冲突问题, 并逐步增加交互对象创建, socket通信, [定制化UI组件](https://github.com/NAVERON/ArbitraryCoding/tree/main/src/main/java/com/eron/routeplanning)和应用JavaFx, 实现船舶避碰4个版本, [持续优化中](https://github.com/NAVERON/ShipSimulation)...  
 - 使用JavaFx优化[仿真框架](https://github.com/NAVERON/ArbitraryCoding/tree/main/src/main/java/com/eron/simulationframe), 制作[日报记录提交小工具](https://github.com/NAVERON/ArbitraryCoding/tree/main/src/main/java/com/eron/attendance), 校园招聘关键词[搜索工具](https://github.com/NAVERON/ArbitraryCoding/tree/main/src/main/java/com/eron/crawljobs)  
-- 1个月完成Q-Learning算法应用到船舶避碰中, 了解基础的理论, 能够调整参数和修改计算逻辑达到避碰仿真应用的目的  
+- 1个月完成Q-Learning算法应用到船舶避碰中--[移植应用](https://github.com/NAVERON/MachineLearningNotes/tree/main/PytorchLearningProjects/DDPGPractice), 了解基础的理论, 能够调整参数和修改计算逻辑达到避碰仿真应用的目的  
 
 
 

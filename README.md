@@ -17,6 +17,7 @@
 - [PracticeSpringboot](https://github.com/NAVERON/PracticeSpringboot)  
 - [PracticeJavaFx\<PracticeSpringboot Sibling Project\>](https://github.com/NAVERON/PracticeJavaFx)  
 - [SpecializedExercises](https://github.com/NAVERON/SpecializedExercises)  
+- [MachineLearningNotes](https://github.com/NAVERON/MachineLearningNotes)  
 - ......
 
 ## **技能** 
@@ -32,7 +33,7 @@
 ## **社交平台** 
 
 - [Zhihu](https://www.zhihu.com/people/wangyulong.eron)  
-- [Github](https://github.com/NAVERON)  
+- [Github](https://github.com/NAVERON) + [GITEE](https://gitee.com/naveron) + [GITLAB](https://gitlab.com/NAVERON)  
 - [Bilibili](https://space.bilibili.com/89060131)  
 - [Yuque](https://naveron.yuque.com/dashboard)  
 
