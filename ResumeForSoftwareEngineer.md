@@ -5,9 +5,9 @@
 > 联系邮箱 : **wangyulong.eron@outlook.com**  
 > 职业规划 : 软件工程师/全栈工程师/设计师  
 
-- [领英LinkedIn](https://www.linkedin.com/in/naveron/)  
-- [开源Github](https://github.com/NAVERON) + [GITEE](https://gitee.com/naveron) + [GITLAB](https://gitlab.com/NAVERON)  
-- [博客园CNBlogs](https://www.cnblogs.com/eronnav/)  +  [Jekyll博客](https://naveron.github.io/)  
+- [LinkedIn](https://www.linkedin.com/in/naveron/)  
+- [Github](https://github.com/NAVERON) + [Gitee](https://gitee.com/naveron) + [Gitlab](https://gitlab.com/NAVERON)  
+- [ChinaBlogs\/cnblogs](https://www.cnblogs.com/eronnav/)  +  [GithubPage\/Jekyll](https://naveron.github.io/)  
 
 ```mermaid
 gantt
