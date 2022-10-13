@@ -4,21 +4,28 @@
 
 ![View Counts](https://komarev.com/ghpvc/?username=naveron&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)  [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://naveron.github.io/)  
 
-我是一名设计爱好者, 喜欢整理收藏汇总检索, 写作绘画创作设计 :heart:  
+我是一名技术/设计爱好者, 喜欢整理收藏汇总检索, 写作绘画创作设计 :heart:  
 
-- :zany_face: 努力成为一名优秀的全栈工程师, 设计仿真程序等相关作品  
-- :thinking: 热爱开源, 希望有更多的时间和机会贡献源代码, 希望能将航海技术的知识和计算机技术融合, 自成体系  
-- :speech_balloon: 主要联系方式 [**wangyulong.eron@outlook.com**](mailto:wangyulong.eron@outlook.com)  
+- :zany_face: 成为一名优秀的全栈软件工程师, 做有意义的事  
+- :thinking: 贡献开源代码, 将航海技术和计算机融合, 开拓一些新领域  
+- :speech_balloon: 如果觉得我还不错, 一起加入写点代码吧  
 
 ## **近期主要项目** 
 
-- [ArbitraryCoding](https://github.com/NAVERON/ArbitraryCoding)  
-- [ShipSimulation](https://github.com/NAVERON/ShipSimulation)  
-- [PracticeSpringboot](https://github.com/NAVERON/PracticeSpringboot)  
-- [PracticeJavaFx\<PracticeSpringboot Sibling Project - ClientSide\>](https://github.com/NAVERON/PracticeJavaFx)  
-- [SpecializedExercises](https://github.com/NAVERON/SpecializedExercises)  
-- [MachineLearningNotes](https://github.com/NAVERON/MachineLearningNotes)  
-- ......
+1. Key Projects  
+    - [ShipSimulation 船舶仿真系列](https://github.com/NAVERON/ShipSimulation)  
+    - [Eron Visual Studio 工作室](https://github.com/NAVERON/naveron.github.io)  
+    - ...  
+2. Star Projects  
+    - [ArbitraryCoding 验证性项目](https://github.com/NAVERON/ArbitraryCoding)  
+    - [SpecializedExercises 核心训练](https://github.com/NAVERON/SpecializedExercises)  
+    - [FxComponents Fx组件库](https://github.com/NAVERON/FxComponents)  
+    - [PracticeSpringboot](https://github.com/NAVERON/PracticeSpringboot) + [PracticeJavaFx](https://github.com/NAVERON/PracticeJavaFx)  
+    - ...    
+2. About Me  
+    - [Profile 首页](https://github.com/NAVERON/NAVERON)  
+    - [Mine 我的一些故事](https://github.com/NAVERON/ERON)  
+    - ...  
 
 ## **技能** 
 
@@ -37,15 +44,15 @@
 - [Bilibili](https://space.bilibili.com/89060131)  
 - [Yuque](https://www.yuque.com/eronyulong)  
 
-## **近期找工作** 
+## **骏马&伯乐** 
 
 个人简历 : [应聘软件工程师](./ResumeForSoftwareEngineer.md)  
 
-> 愿意脚踏实地从头开始, 以技术底蕴和项目经验作为基础, 由简单的实现业务到独自创造'轮子', 实事求是, 一定可以的  
+> 脚踏实地, 自尊自信, 职业素养, 实事求是. 欢迎联系我 ~  
 
 ------
 
-<details close>
+<details open>
   <summary><b>ERON GITHUB STATS</b></summary>
 
   <p align = "center" />
